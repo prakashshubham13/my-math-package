@@ -1,5 +1,5 @@
 {
-  "name": "my-math",
+  "name": "my-math-helper",
   "version": "1.0.0",
   "description": "Package helps you implement various mathematics operations",
   "main": "index.js",

@@ -1,8 +1,8 @@
 ## What is this?
-Mensuration calculator
+Package helps you implement various mathematics operations
 
 ## Installation
-Run `npm i my-math`
+Run `npm i my-math-helper`
 
 Use:
 ```
